@@ -53,7 +53,7 @@ Now that the requirements and constraints have been specified, the system we lan
 
 The following is an approximation of the system diagram of the logging system
 
-<pre style="line-height: 0.95">
+<pre style="line-height: 1">
 <code>
 ┌───────┐
 │startup│
